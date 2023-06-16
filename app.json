@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "DevJobz",
-    "slug": "DevJobz"
+    "slug": "DevJobz",
+    "extra": {
+      "eas": {
+        "projectId": "190d73e1-82f3-447a-8767-bca1ffcdb3da"
+      }
+    },
+    "android": {
+      "package": "com.daniel2001.DevJobz"
+    }
   }
 }
